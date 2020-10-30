@@ -9,7 +9,7 @@ test:
   services:
     - mysql:5.5
   script:
-    - cd Server && npm install && npm test
+    - cd server && npm install && npm test
 
 
 

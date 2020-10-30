@@ -6,7 +6,7 @@ import Livefeed from "../Livefeed/Livefeed";
 import {sakService} from "../../service/services";
 import NyhetsContainer from "../NyhetsContainer/NyhetsContainer";
 import Footer from "../Footer/Footer";
-import {Sak} from "../../../../Klient/src/service/services"
+import {Sak} from "../../../src/service/services"
 
 type KategorisideProps = {
     match: {params: {kategori: string}}

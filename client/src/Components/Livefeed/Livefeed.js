@@ -3,7 +3,7 @@
 import React, {Component} from "react"
 import {sakService} from "../../service/services.js"
 import "./Livefeed.css"
-import {Sak} from "../../../../Klient/src/service/services"
+import {Sak} from "../../../src/service/services"
 
 type LivefeedState = {
     pri2Saker: Sak[]
