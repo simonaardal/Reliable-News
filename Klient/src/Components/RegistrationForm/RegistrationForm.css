@@ -1,0 +1,53 @@
+
+body{
+    background-color: #F6F7F9;
+}
+
+
+.radio{
+    margin-left:40px;
+}
+
+.formContainer{
+    background-color: white;
+    width: 50%;
+    margin: auto auto 40px auto;
+    border-radius: 6px;
+    padding-bottom: 50px;
+}
+
+.form-group{
+    margin: 40px;
+}
+
+.form-group label{
+    font-size: 16px;
+}
+
+.overskrift{
+    text-align: center;
+    margin: 50px 50px 20px 50px;
+    padding-top:50px;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+#submitBtn{
+    margin: auto;
+    display: block;
+
+}
+
+@media only screen and (max-width: 500px){
+    .formContainer{
+        width: 100%;
+        padding: 0;
+        border-radius: 0;
+    }
+
+    .overskrift{
+        font-size: 26px;
+        margin: 30px;
+
+    }
+}

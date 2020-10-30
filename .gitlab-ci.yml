@@ -1,0 +1,15 @@
+# Configure test-database
+variables:
+  MYSQL_DATABASE: supertestdb
+  MYSQL_ROOT_PASSWORD: secret
+
+# Run JEST tests
+test:
+  image: node:latest
+  services:
+    - mysql:5.5
+  script:
+    - cd Server && npm install && npm test
+
+
+

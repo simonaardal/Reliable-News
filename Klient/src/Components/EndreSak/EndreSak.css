@@ -1,0 +1,66 @@
+.wrapperEndreSak {
+    padding-top: 40px;
+    display: grid;
+    height: 100%;
+}
+
+.endreSakContainer{
+    background-color: white;
+    width: 45%;
+    margin: auto auto 40px auto;
+
+    padding-bottom: 50px;
+}
+.bildeContainer img{
+    display: block;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+}
+
+.tittel h1{
+    text-align: center;
+    font-size: 52px;
+    padding: 30px;
+}
+
+.info{
+    width: 90%;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border-top: 2px solid darkgrey;
+    border-bottom: 2px solid darkgrey;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.endreOverskrift{
+
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#submitBtn{
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 900px){
+
+    .wrapperEndreSak{
+        width: 100%;
+    }
+    .endreSakContainer{
+        width: 100%;
+    }
+
+    .info{
+        width: 90%;
+        margin: auto;
+    }
+
+    .forfatter{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+}

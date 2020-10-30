@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dcc0437-7cab-4e73-bc2f-bcd8706bdddc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/EndreSak/EndreSak.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/EndreSak/EndreSak.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/EndreSak/EndreSak.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/EndreSak/EndreSak.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Livefeed/Livefeed.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Livefeed/Livefeed.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Livefeed/Livefeed.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Livefeed/Livefeed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Navbar/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Navbar/Navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/NyhetCard/NyhetCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/NyhetCard/NyhetCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/NyhetCard/NyhetCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/NyhetCard/NyhetCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/NyhetsContainer/NyhetsContainer.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/NyhetsContainer/NyhetsContainer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/RegistrationForm/RegistrationForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/RegistrationForm/RegistrationForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/RegistrationForm/RegistrationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/RegistrationForm/RegistrationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Sakside/Sakside.css" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Sakside/Sakside.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/Components/Sakside/Sakside.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/Components/Sakside/Sakside.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klient/src/components.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Klient/src/components.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/dao/sakdao.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server/dao/sakdao.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Sk0lRQy4ndB81PwXGqp3FBBkTg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/Klient/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\Simon.PC\AppData\Local\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt\Klient\src\res" />
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt\Server\src" />
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt\Server\node_modules" />
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt\Server\dao" />
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt\Klient" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt" />
+      <recent name="C:\Users\Simon.PC\Documents\miniprosjekt\Server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.NyhetsContainer rendrer uten å krasje">
+    <configuration name="EndreSak rendrer uten å krasje" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/Klient/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/Klient" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/Klient/src/components.test.js" />
+      <test-names>
+        <test-name value="EndreSak rendrer uten å krasje" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Kategoriside rendrer uten å krasje" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/Klient/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/Klient" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/Klient/src/components.test.js" />
+      <test-names>
+        <test-name value="Kategoriside rendrer uten å krasje" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="NyhetsContainer rendrer uten å krasje" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/Klient/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/Klient" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/Klient/src/components.test.js" />
+      <test-names>
+        <test-name value="NyhetsContainer rendrer uten å krasje" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sakside rendrer uten å krasje" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/Klient/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/Klient" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/Klient/src/components.test.js" />
+      <test-names>
+        <test-name value="Sakside rendrer uten å krasje" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="components.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/Klient/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/Klient" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/Klient/src/components.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.NyhetsContainer rendrer uten å krasje" />
+        <item itemvalue="Jest.Sakside rendrer uten å krasje" />
+        <item itemvalue="Jest.Kategoriside rendrer uten å krasje" />
+        <item itemvalue="Jest.EndreSak rendrer uten å krasje" />
+        <item itemvalue="Jest.components.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dcc0437-7cab-4e73-bc2f-bcd8706bdddc" name="Default Changelist" comment="" />
+      <created>1572092436610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572092436610</updated>
+      <workItem from="1572092438416" duration="3979000" />
+      <workItem from="1572282685832" duration="6111000" />
+      <workItem from="1572334701546" duration="33190000" />
+      <workItem from="1572420255956" duration="27829000" />
+      <workItem from="1572450614319" duration="2913000" />
+      <workItem from="1572508004428" duration="5819000" />
+      <workItem from="1572548605356" duration="7547000" />
+      <workItem from="1572598177630" duration="12780000" />
+      <workItem from="1572792899015" duration="298000" />
+      <workItem from="1572793242564" duration="1180000" />
+      <workItem from="1572795565981" duration="3007000" />
+      <workItem from="1572863491223" duration="21251000" />
+      <workItem from="1572893513816" duration="3873000" />
+      <workItem from="1572940701034" duration="17609000" />
+      <workItem from="1572981746287" duration="11137000" />
+      <workItem from="1573119852004" duration="7767000" />
+      <workItem from="1573153072406" duration="1828000" />
+      <workItem from="1573155121875" duration="646000" />
+      <workItem from="1573167626852" duration="1213000" />
+      <workItem from="1573207190130" duration="3759000" />
+      <workItem from="1573221229772" duration="1325000" />
+      <workItem from="1573325413259" duration="2913000" />
+      <workItem from="1573380945373" duration="21701000" />
+      <workItem from="1573456437429" duration="11913000" />
+      <workItem from="1573556238049" duration="8576000" />
+      <workItem from="1573752556128" duration="3438000" />
+      <workItem from="1573817499182" duration="2121000" />
+      <workItem from="1573833470906" duration="337000" />
+      <workItem from="1573890609299" duration="23140000" />
+      <workItem from="1573925155819" duration="5731000" />
+      <workItem from="1573988241932" duration="11258000" />
+      <workItem from="1574074551155" duration="876000" />
+      <workItem from="1574075449805" duration="20665000" />
+      <workItem from="1574103222154" duration="5606000" />
+      <workItem from="1574151443217" duration="17164000" />
+      <workItem from="1574236036427" duration="18724000" />
+      <workItem from="1574260666708" duration="1126000" />
+      <workItem from="1574325160602" duration="28517000" />
+      <workItem from="1574503313458" duration="11949000" />
+      <workItem from="1574515681884" duration="4851000" />
+      <workItem from="1574520765211" duration="742000" />
+      <workItem from="1574583546382" duration="7910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Server/node_modules/index.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

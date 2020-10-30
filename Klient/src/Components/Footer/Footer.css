@@ -1,0 +1,21 @@
+.footerContainer{
+    height: 300px;
+    width: 100%;
+    background-color: #16161d;
+    text-align: center;
+}
+
+.footerContainer h3{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.omContainer{
+    text-align: center;
+    padding-top: 75px;
+}
+
+.omContainer h6{
+    letter-spacing: 2px;
+    color: white;
+}

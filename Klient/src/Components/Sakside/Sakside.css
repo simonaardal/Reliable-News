@@ -1,0 +1,137 @@
+.wrapperSakside {
+    padding-top: 40px;
+    height: 100%;
+    width: 100%;
+}
+
+.sakContainer{
+    background-color: white;
+    width: 50%;
+    margin: auto auto 50px auto;
+    height: 100%;
+    padding-bottom: 50px;
+}
+.bildeContainer img{
+    display: block;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+}
+
+.form-group{
+    width: 80%;
+    margin: 20px auto;
+    padding-top: 30px;
+}
+
+.tittel h1{
+    word-break: break-word;
+    text-align: center;
+    font-size: 52px;
+    padding: 30px;
+}
+
+.infoContainer{
+    border-top: 2px solid darkgrey;
+    border-bottom: 2px solid darkgrey;
+    width: 90%;
+    margin: auto auto 50px auto;
+    padding: 20px 0 20px 0;
+}
+
+.slettOgEndreContainer{
+    float: right;
+    margin-right: 40px;
+    display: inline-flex;
+}
+
+
+.knapperContainer{
+    vertical-align: middle;
+    width: 90%;
+    margin-left: 40px;
+}
+#endreBtn{
+    margin-bottom: 20px;
+}
+.knapperContainer button{
+    background-color: white;
+}
+
+.likebuttonsContainer{
+    display: inline-flex;
+    margin: auto;
+}
+
+.saktekst p{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+.rating{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#likeBtn{
+    border: none;
+}
+
+#dislikeBtn{
+    border: none;
+}
+
+#slettBtn{
+    border: none;
+}
+
+.kommentar{
+    background-color: white;
+    margin: 30px;
+    border-bottom: 1px solid darkgrey;
+    padding: 0 10px 0 10px;
+}
+
+.kommentar h6{
+
+    color: black;
+}
+
+.kommentarfelt h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.kommentarer{
+    background-color: white;
+    min-height: 500px;
+    max-height: 600px;
+    border: 1px solid darkgrey;
+    max-width: 80%;
+    margin: auto;
+    overflow-x: hidden;
+    text-align:justify;
+}
+
+#kommentarKnapp{
+    margin: 50px auto 100px auto;
+    display: block;
+}
+
+
+@media only screen and (max-width: 500px){
+
+    .wrapperSakside{
+        width: 100%;
+    }
+    .sakContainer{
+        width: 100%;
+    }
+
+    .forfatter{
+        margin: 0;
+        padding: 0;
+        width: 10%;
+    }
+}
